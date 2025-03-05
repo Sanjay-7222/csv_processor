@@ -35,7 +35,7 @@ To run this project, you need to start Django, run Redis, and launch the Celery 
 
 python manage.py runserver
 redis-server
-celery -A myproject worker --loglevel=info --pool=solo
+celery -A csv_processor worker --loglevel=info --pool=solo
 
 
 📬 Contact
