@@ -28,8 +28,8 @@ This project allows users to upload CSV files, process numerical data asynchrono
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/django-csv-celery.git
-cd django-csv-celery
+git clone https://github.com/Sanjay-7222/csv_processor.git
+cd csv_processor
 
 To run this project, you need to start Django, run Redis, and launch the Celery worker.
 
@@ -43,4 +43,3 @@ Feel free to reach out if you have any questions!
 📧 Email: sanjay8015803208@gmail.com
 🔗 LinkedIn: http://linkedin.com/in/sanjay-p-b1a639318
 📂 GitHub: https://github.com/Sanjay-7222
-
